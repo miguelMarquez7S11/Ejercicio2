@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio2</string>
+    <string name="titulo">Ejercicio 2</string>
+    <string name="siguiente">Ir a pantalla 2</string>
+    <string name="descripcion">En este proyecto se utiliza un boton para ir a la siguiente evntana</string>
+    <string name="pantalla2">Hola esta es la Pantalla 2</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="nombre">Marquez Hernandez Brandon Miguel 7S11</string>
+
+</resources>
